@@ -1,0 +1,6 @@
+__pycache__/
+log/
+Models for Beach Buggy/
+training_data/
+val_dir/
+weight_distribution.py/
