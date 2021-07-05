@@ -1,2 +1,2 @@
 # Beach-Buggy-AI
-![Beach_Buggy_model_20](Beach_Buggy_model_20.mp4)
+![Beach_Buggy_model](Beach_Buggy_video2.mp4)
